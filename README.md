@@ -1,6 +1,6 @@
 # Dacon_OCR
 ## 데이콘 삼성AI 멀티모달 OCR 컨테스트
-## Visually-rich Document Understanding : 2025 Samsung AI Challenge
+### Visually-rich Document Understanding : 2025 Samsung AI Challenge
 ### https://dacon.io/competitions/official/236564/overview/description
 
 **서울시립대학교 인공지능학과**
